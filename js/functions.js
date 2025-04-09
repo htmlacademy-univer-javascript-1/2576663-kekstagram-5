@@ -12,4 +12,3 @@ console.log('\nТесты isPalindrome:');
 console.log(isPalindrome('топот'));
 console.log(isPalindrome('ДовОд'));
 console.log(isPalindrome('Кекс'));
-console.log(isPalindrome('А роза упала на лапу Азора'));
